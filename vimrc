@@ -4,6 +4,8 @@ set number
 set ruler
 syntax on
 
+let mapleader = ","
+
 " Set encoding
 set encoding=utf-8
 
